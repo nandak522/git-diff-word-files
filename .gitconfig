@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[diff "word"]
+    binary = true
+    textconv = strings
+[diff "odt"]
+    binary = true
+    textconv = ~/odt-to-txt
