@@ -1,1 +1,2 @@
-*.doc diff=libreoffice
+*.doc diff=word
+*.odt diff=odt
